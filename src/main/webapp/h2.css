@@ -1,0 +1,13 @@
+h2{
+    font-weight: 600;
+    text-align: center;
+    background-color: #ba3c3c;
+    color: #fff;
+    padding: 10px 0px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    border-radius: 80px;
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 9px 20px;
+}
